@@ -28,7 +28,7 @@ description_with_markdown: >-
   [This Excellent Collection](https://www.loc.gov/collections/excellent-collection/)
   at the [Library of Congress](https://www.loc.gov/).
 domain: beefoo.github.io
-baseurl: "/loc-jekyll-template" # the subpath of your site, e.g. /blog
+baseurl: "/ai-jekyll" # the subpath of your site, e.g. /blog
 url: "https://beefoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 about_url: /about/
 code_url: "https://github.com/beefoo/loc-jekyll-template"
